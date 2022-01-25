@@ -3,7 +3,9 @@
 
 - I love writing codes, creating pipelines for ML projects and working on solutions that will improve healthcare delivery in the world, most importantly, Africa.😎✌
 
-- Alumni @ CodeSquadLLC👩‍🎓,Alumni @ WorldQuantUni👩‍🎓, Data Science Intern @Hamoye HQ⌨🖥💻.
+- Alumni @ CodeSquadLLC👩‍🎓,Alumni @ WorldQuantUni👩‍🎓, Alumni @Hamoye HQ⌨🖥💻.
+
+- AI tutor, ONE Innovative Hub
 
 - 🔭 I’m currently working on a project that can recognise handwriting, those that deal with drugs and diagnosis, so you do not have to complain of  doctor's poor handwriting anymore. 
 
