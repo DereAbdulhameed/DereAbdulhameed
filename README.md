@@ -5,12 +5,12 @@
 
 - Alumni @ CodeSquadLLC👩‍🎓,Alumni @ WorldQuantUni👩‍🎓, Alumni @Hamoye HQ⌨🖥💻.
 
-- AI tutor, ONE Innovative Hub
+- AI tutor, ONE Innovative Hub. Community Lead for Data Science Nigeria, Offa Chapter
 
-- 🔭 I’m currently working on a project that can recognise handwriting, those that deal with drugs and diagnosis, so you do not have to complain of  doctor's poor handwriting anymore. 
+- 🔭 I’m currently working on a project that to ease HIV identification in Africa through automation by Generative models derived using tweets as dataset
 
 
-- 🌱 I’m currently learning modules and topics in Deep Learning with Data Science Nigeria with the view of using it to build solutions to better the healthcare industry😊👌😉
+- 🌱 I’m currently learning modules and topics in Deep Learning with Udacity and Google with the view of using it to build solutions to better the healthcare industry😊👌😉
 
 
 - 👯 I’m looking to collaborate on all forms of projects including ML and DL that enrich lives and create healthy,prompt and affordable healthcare delivery, but more importanly makes life better for all. 
